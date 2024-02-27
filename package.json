@@ -1,5 +1,5 @@
 {
-  "name": "example-bun",
+  "name": "chat-server",
   "module": "server.ts",
   "type": "module",
   "devDependencies": {
